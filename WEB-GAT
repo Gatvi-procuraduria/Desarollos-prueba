@@ -1,0 +1,56 @@
+{
+    "id": "/subscriptions/4032168f-2dda-49af-9c49-8dce885d2c49/resourceGroups/GR-GATVI/providers/Microsoft.Web/sites/gatvi-web",
+    "name": "gatvi-web",
+    "type": "Microsoft.Web/sites",
+    "kind": "app",
+    "location": "East US",
+    "tags": {
+        "proyecto": "Gatvi Core"
+    },
+    "properties": {
+        "name": "gatvi-web",
+        "state": "Running",
+        "hostNames": [
+            "gatvi-web.azurewebsites.net"
+        ],
+        "webSpace": "GR-GATVI-EastUSwebspace",
+
+        "hostNamesDisabled": false,
+        "domainVerificationIdentifiers": null,
+        "customDomainVerificationId": "997CBF806FE4FC91EFEA835E39870615A417A6E9A5F853ADF4458CC4E2003BC4",
+        "kind": "app",
+        "inboundIpAddress": "20.49.104.22",
+        "possibleInboundIpAddresses": "20.49.104.22",
+        "ftpUsername": "gatvi-web\\$gatvi-web",
+        "ftpsHostName": "ftps://waws-prod-blu-229.ftp.azurewebsites.windows.net/site/wwwroot",
+        "outboundIpAddresses": "40.76.153.168,40.76.153.181,40.76.154.105,40.76.154.117,40.76.154.127,40.76.154.136,20.49.104.22",
+        "possibleOutboundIpAddresses": "40.76.152.10,40.76.152.78,40.76.152.80,40.76.152.127,40.76.152.161,40.76.153.39,40.76.153.55,40.76.153.98,40.76.153.113,40.76.153.126,40.76.153.155,40.76.153.164,40.76.153.168,40.76.153.181,40.76.154.105,40.76.154.117,40.76.154.127,40.76.154.136,40.76.154.152,40.76.154.156,40.76.154.197,40.76.155.9,40.76.155.127,40.76.155.133,40.76.155.189,40.76.155.215,40.76.156.0,52.186.41.198,52.186.43.97,52.186.44.141,20.49.104.22",
+        "containerSize": 0,
+        "dailyMemoryTimeQuota": 0,
+        "suspendedTill": null,
+        "siteDisabledReason": 0,
+        "functionExecutionUnitsCache": null,
+        "maxNumberOfWorkers": null,
+        "homeStamp": "waws-prod-blu-229",
+        "cloningInfo": null,
+        "hostingEnvironmentId": null,
+        "tags": {
+            "proyecto": "Gatvi Core"
+        },
+        "resourceGroup": "GR-GATVI",
+        "defaultHostName": "gatvi-web.azurewebsites.net",
+        "slotSwapStatus": null,
+        "httpsOnly": false,
+        "redundancyMode": 0,
+        "inProgressOperationId": null,
+        "geoDistributions": null,
+        "privateEndpointConnections": [],
+        "buildVersion": null,
+        "targetBuildVersion": null,
+        "migrationState": null,
+        "eligibleLogCategories": "AppServiceAppLogs,AppServiceAuditLogs,AppServiceConsoleLogs,AppServiceHTTPLogs,AppServiceIPSecAuditLogs,AppServicePlatformLogs,ScanLogs,AppServiceFileAuditLogs,AppServiceAntivirusScanAuditLogs",
+        "storageAccountRequired": false,
+        "virtualNetworkSubnetId": null,
+        "keyVaultReferenceIdentity": "SystemAssigned"
+    }
+}
